@@ -9,9 +9,6 @@ const settings = {
     dest: "public",
     register: true,
     skipWaiting: true,
-  },
-  devIndicators: {
-    autoPrerender: false,
   }
 }
 
