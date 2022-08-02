@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "N1": "Raiz de Arena",
+    "N2": "Sobre",
+    "N3": "Contacto"
+  },
+
+  "home": {
+    "title": "Raiz de Arena | Gestión de eventos",
+    "desc": "Gestión de eventos - Cozumel",
+    "T1": "Raiz de Arena",
+    "T3": "Bienvenido"
+  },
+
+  "map": {
+    "title": "Mapa | Raiz de Arena | Gestión de eventos",
+    "desc": "Dónde y cómo encontrarnos.",
+    "T1": "Desde 2018",
+    "T2": "Raiz de Arena",
+    "T3": "Gestión de eventos",
+    "T4": "El Cedral, Cozumel",
+    "T5": "+52 1 987 564 0622"
+  },
+
+  "about": {
+    "title": "Sobre | Raiz de Arena",
+    "desc": "Sobre | Raiz de Arena | Gestión de eventos",
+    "T1": "Sobre"
+  },
+
+  "contact": {
+    "title": "Contacto | Raiz de Arena | Gestión de eventos",
+    "desc": "Contacto | Raiz de Arena | Gestión de eventos - Cozumel",
+    "T1": "Contacto",
+    "T2": "Deje sugerencias o comentarios, es muy bienvenido. ¡Estamos muy contentos de saber de ti!",
+    "T4": "Nombre",
+    "T5": "Correo electrónico",
+    "T6": "Messaje",
+    "T7": "Enviar"
+  }
+}

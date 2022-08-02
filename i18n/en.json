@@ -1,0 +1,42 @@
+{
+  "navigation": {
+    "N1": "Raiz de Arena",
+    "N2": "About",
+    "N3": "Contact"
+  },
+
+  "home": {
+    "title": "Raiz de Arena | Event Management Cozumel",
+    "desc": "Event Management Cozumel",
+    "T1": "Raiz de Arena",
+    "T2": "Event Management Cozumel!",
+    "T3": "Welcome!"
+  },
+
+  "map": {
+    "title": "Map | Raiz de Arena | Event Management Cozumel",
+    "desc": "Where and how to find us | Raiz de Arena",
+    "T1": "Anno 2018",
+    "T2": "Raiz de Arena",
+    "T3": "Event Management Cozumel",
+    "T4": "El Cedral, Cozumel",
+    "T5": "+52 1 987 564 0622"
+  },
+
+  "about": {
+    "title": "About | Raiz de Arena",
+    "desc": "About | Raiz de Arena | Event Management Cozumel",
+    "T1": "About"
+  },
+
+  "contact": {
+    "title": "Contact | Raiz de Arena | Event Management Cozumel",
+    "desc": "Contact | Raiz de Arena | Event Management Cozumel",
+    "T1": "Contact",
+    "T2": "Please leave any suggestions or feedback, it is always very welcome. We are excited to hear from you!",
+    "T4": "Name",
+    "T5": "Email",
+    "T6": "Message",
+    "T7": "Submit"
+  }
+}

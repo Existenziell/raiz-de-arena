@@ -1,0 +1,29 @@
+{
+  "name": "raiz-de-arena",
+  "author": "Christof Bauer <bauer.christof@gmail.com> (http://christof.digital/)",
+  "version": "0.1",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "eslint": "^8.20.0",
+    "mapbox-gl": "^2.8.2",
+    "next": "^12.1.6",
+    "next-pwa": "^5.5.2",
+    "nextjs-progressbar": "^0.0.14",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-map-gl": "^7.0.11",
+    "react-spinners": "^0.11.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint-config-next": "12.2.3",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24"
+  }
+}
