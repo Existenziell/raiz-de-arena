@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
         <DarkModeToggle />
       </div>
 
-      <main className='w-full text-center bg-cloth-pattern bg-repeat dark:bg-none dark:bg-brand-dark dark:text-gray-300'>
+      <main className='w-full text-center bg-cloth-pattern bg-repeat dark:bg-none dark:bg-brand-dark dark:text-gray-300 min-h-screen'>
         {children}
       </main>
 
