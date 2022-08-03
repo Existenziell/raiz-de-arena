@@ -162,3 +162,28 @@ html, body {
     line-height: 88px;
   }
 }
+
+
+/* ==========================================================================
+	Mapbox overrides
+	========================================================================== */
+
+div.mapboxgl-popup-content {
+  @apply p-2 bg-white/20 backdrop-blur-md;
+}
+
+.mapboxgl-popup-content div {
+  @apply text-sm px-6 py-8 shadow font-sans bg-white/60 backdrop-blur-md dark:bg-brand-dark/80 dark:text-white;
+}
+
+.mapboxgl-popup-content a {
+  @apply mt-4 block;
+}
+
+.mapboxgl-popup-tip {
+  @apply opacity-20;
+}
+
+.mapboxgl-popup-close-button {
+  @apply text-3xl px-4 py-1 hover:text-brand hover:scale-105 transition-all dark:text-white focus:outline-none;
+}
